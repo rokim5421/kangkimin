@@ -1,0 +1,38 @@
+ {
+  "name": "KANG KIMIN",
+  "short_name": "Kang Kimin",
+  "start_url": "https://www.kangkimin.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#6703ff",
+  "description": "Blog yang membahas informasi seputar dunia Blogger, SEO, Adsense, Widget, CSS, HTML, Template dan Tips Blogging menarik lainnya.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-36_sJlQVUWw/XLXDdyw5ZGI/AAAAAAAAEnc/wpzA_U51u40qhVMF8WMmddbv37jlSldUgCLcBGAs/s48/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-36_sJlQVUWw/XLXDdyw5ZGI/AAAAAAAAEnc/wpzA_U51u40qhVMF8WMmddbv37jlSldUgCLcBGAs/s72/logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-36_sJlQVUWw/XLXDdyw5ZGI/AAAAAAAAEnc/wpzA_U51u40qhVMF8WMmddbv37jlSldUgCLcBGAs/s96/logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-36_sJlQVUWw/XLXDdyw5ZGI/AAAAAAAAEnc/wpzA_U51u40qhVMF8WMmddbv37jlSldUgCLcBGAs/s144/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-36_sJlQVUWw/XLXDdyw5ZGI/AAAAAAAAEnc/wpzA_U51u40qhVMF8WMmddbv37jlSldUgCLcBGAs/s168/logo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-36_sJlQVUWw/XLXDdyw5ZGI/AAAAAAAAEnc/wpzA_U51u40qhVMF8WMmddbv37jlSldUgCLcBGAs/s192/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-36_sJlQVUWw/XLXDdyw5ZGI/AAAAAAAAEnc/wpzA_U51u40qhVMF8WMmddbv37jlSldUgCLcBGAs/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
